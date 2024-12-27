@@ -1,1 +1,1 @@
-# Javaのお勉強
+# Study java
