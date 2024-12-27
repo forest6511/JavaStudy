@@ -1,1 +1,1 @@
-# Study java
+# Lean java
